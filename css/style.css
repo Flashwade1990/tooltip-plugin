@@ -1,0 +1,13 @@
+#tooltip {
+	background: #e3e3e3 url(../images/search.png) no-repeat 5px 50%;
+	border: 1px solid #bfbfbf;
+	float: left;
+	font-size: 12px;
+	max-width: 160px;
+	padding: 1em 1em 1em 3em;
+	position: absolute;
+}
+
+.rounded {
+	border-radius: 10px;
+}
